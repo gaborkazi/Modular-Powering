@@ -56,6 +56,7 @@ Here's a summary of what each part of the code does:
     
     `4. Handles invalid input and loops back to ask again.`
 
+
 =============================================================================================================
 
 **MAGYAR**
@@ -116,3 +117,5 @@ Here's a summary of what each part of the code does:
     `3. Kilép a programból, ha a felhasználó nemet mond.`
     
     `4. Kezeli az érvénytelen bemenetet és visszakérdez a ciklusban.`
+
+
