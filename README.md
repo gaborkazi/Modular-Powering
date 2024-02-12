@@ -118,6 +118,4 @@ Here's a summary of what each part of the code does:
     
     `4. Kezeli az érvénytelen bemenetet és visszakérdez a ciklusban.`
 
-- Version 2.0 -
-
-
+- Version 2.0
