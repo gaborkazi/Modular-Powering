@@ -54,7 +54,7 @@ Here's a summary of what each part of the code does:
     
     `3. Exits the program if the user says no.`
     
-    `4 Handles invalid input and loops back to ask again.`
+    `4. Handles invalid input and loops back to ask again.`
 
 
 =============================================================================================================
@@ -116,6 +116,6 @@ Here's a summary of what each part of the code does:
     
     `3. Kilép a programból, ha a felhasználó nemet mond.`
     
-    `4 Kezeli az érvénytelen bemenetet és visszakérdez a ciklusban.`
+    `4. Kezeli az érvénytelen bemenetet és visszakérdez a ciklusban.`
 
 - Version 2.0
