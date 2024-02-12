@@ -1,4 +1,4 @@
-def main(): # Programfüggvény
+def main(): # Main function
     print("\nWarning! You can only enter positive integers!\n\n")
     def data_input_handler(): # Get the number, the power and the divisor
         try:
