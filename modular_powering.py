@@ -53,7 +53,7 @@ def handler(): # Handling function
     repeat = input("\n\n\nWant to run the program again? (Y/N): ").lower()
     if repeat in ("yes", "y"):
         main()
-    elif repeat == "n" or "no:
+    elif repeat == "n" or "no":
         exit()
     else:
         print("\n\nOops! You've done something wrong!")
